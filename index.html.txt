@@ -1,4 +1,0 @@
-<h1>Hello</h1>
-<title>Employee Form</title>
-<h2>Hello</h2>
-<i>Hello</i>
